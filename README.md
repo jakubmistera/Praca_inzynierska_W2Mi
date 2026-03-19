@@ -22,7 +22,7 @@ Projekt dzieli się na 4 główne moduły operacyjne, zarządzane z poziomu pane
 3. **Sterowanie falownikiem:** Regulacja prędkości obrotowej elektrowrzeciona (0-400 Hz) za pomocą sygnału analogowego wraz z monitorowaniem aktualnej prędkości.
 4. **Nastawa parametrów i praca automatyczna:** Automatyczny cykl dojazdu próbek z wykorzystaniem różnych prędkości (szybki dojazd, wolniejsze zagłębianie/tarcie) z użyciem bloków `MC_MoveRelative`.
 
-## 📷 Prezentacja logiki i HMI
+## 📷 Prezentacja logiki i HMI (fragmenty)
 
 ### Uruchomienie osi
 <img width="851" height="333" alt="image" src="https://github.com/user-attachments/assets/95abd8e7-2d14-44aa-85cb-cb3e206ee49a" />
